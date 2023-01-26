@@ -13,7 +13,7 @@ entity = { path = "../entity" }
 rocket = { version = "0.5.0-rc.1" }
 
 [dependencies.sea-orm-migration]
-version = "^0.10.0"
+version = "0.8.0"
 features = ["sqlx-postgres", "runtime-tokio-native-tls"]
 
 [dependencies.async-std]
