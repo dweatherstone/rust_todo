@@ -13,3 +13,7 @@
     margin: -10px 0 10px 0;
     color: green;
 }
+
+* {
+    box-sizing: border-box;
+}
